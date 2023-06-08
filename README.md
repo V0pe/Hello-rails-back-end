@@ -188,6 +188,6 @@ Feel free to check the [issues page](https://github.com/anas599/My-Rails-React/i
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
