@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class GreetTest < ActiveSupport::TestCase
+class Api::V1::GreetsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
